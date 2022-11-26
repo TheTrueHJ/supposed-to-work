@@ -1,0 +1,47 @@
+#body{
+    background: cadetblue;
+}
+
+.login_div1 , .login_div2
+	{
+		background-color:aquamarine;
+		margin-top: 30px;
+        margin-left: 45px;
+        margin-right: 45px;
+        padding-bottom: 200px;
+        margin-bottom: 50px;
+        border-radius: 25px;
+	}
+
+.login_num
+	{
+		background-color:aquamarine;
+		margin-top: 30px;
+        margin-left: 45px;
+        margin-right: 45px;
+        margin-bottom: 50px;
+        padding-bottom: 100px;
+        border-radius: 25px;
+	}
+
+.heading{
+    background-color: aquamarine;
+}
+.button{
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    border-color:cornflowerblue;
+    background-color: aquamarine;
+    color:black;
+    padding:20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#button{
+    border-radius: 10px;
+    border-color:cornflowerblue;
+    background-color: aquamarine;
+    color:black;   
+}
